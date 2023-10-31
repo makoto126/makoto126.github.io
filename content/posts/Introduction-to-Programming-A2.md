@@ -4,6 +4,7 @@ title: "INFO1110: Introduction to Programming Assignment 2"
 description: 用python写一个文字游戏，抓老鼠。
 tags:
 - INFO1110
+- game
 ---
 
 用python写一个文字游戏，抓老鼠。
